@@ -1,5 +1,5 @@
 config_version: v1beta1
-source_url: https://github.com/GergesShamon/simple-deploy-toolforge/raw/refs/heads/main/toolforge.yaml
+source_url: https://raw.githubusercontent.com/GergesShamon/simple-deploy-toolforge/refs/heads/main/toolforge.yaml
 components:
   backend-service:
     component_type: continuous
