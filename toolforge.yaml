@@ -8,5 +8,5 @@ components:
       ref: main
     run:
       command: backend
-      port: 8080
+      port: 8000
       health_check_http: /healthz
