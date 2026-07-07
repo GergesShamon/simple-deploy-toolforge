@@ -7,6 +7,6 @@ components:
       repository: https://github.com/GergesShamon/simple-deploy-toolforge
       ref: main
     run:
-      command: backend
+      command: web
       port: 8000
       health_check_http: /healthz
