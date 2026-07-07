@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn --no-control-socket --bind 0.0.0.0:$PORT app:app
